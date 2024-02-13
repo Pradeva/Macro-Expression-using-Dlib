@@ -9,7 +9,7 @@ Emotions that have been added to this project :
 
 # HOW TO RUN
 1. Clone this project
-   >git clone https://github.com/Pradeva/Macro-Expression-using-Dlib.git
+   >git clone https://github.com/Pradeva/Micro-Expression-using-Dlib.git
 3. Install all requirement
    >pip install -r requirements.txt
 4. Run the project
