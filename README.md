@@ -1,0 +1,1 @@
+If you don't have shape_predictore file, you can download it from https://github.com/italojs/facial-landmarks-recognition/blob/master/shape_predictor_68_face_landmarks.dat and put it inside folder as same as the expression.py file
