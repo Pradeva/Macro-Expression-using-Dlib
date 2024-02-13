@@ -16,6 +16,6 @@ Emotions that have been added to this project :
    >python expression.py
 
 # NOTE
-* I build this project using python version 3.8.1
+* I build this project using python version 3.8.10
 * All of these emotion thresholds still need to be calibrated for better accuracy.
 * The accuracy become lower if the object using glasses
